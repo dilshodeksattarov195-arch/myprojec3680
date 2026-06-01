@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperrrocess",
+        "uuid": 26724160,
+        "checksum": "o3swn"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
