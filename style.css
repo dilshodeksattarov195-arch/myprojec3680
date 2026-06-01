@@ -1,0 +1,7 @@
+body { background: #d39c25; margin: 0; font-family: sans-serif; }
+.secure-terminal { padding: 25px; display: flex; }
+.block-auth-0 { color: #d2b756; font-size: 21px; margin-bottom: 5px; }
+.block-config-1 { color: #cc7f26; font-size: 20px; margin-bottom: 5px; }
+.block-sms-2 { color: #e7fb90; font-size: 21px; margin-bottom: 5px; }
+.block-email-3 { color: #17fffe; font-size: 20px; margin-bottom: 5px; }
+.block-auth-4 { color: #4d4808; font-size: 13px; margin-bottom: 5px; }
